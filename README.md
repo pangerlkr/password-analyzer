@@ -22,7 +22,7 @@ The **Password Strength Analyzer** is a security tool designed to evaluate and e
    ```
 2. Navigate to the project directory:
    ```bash
-   cd password-strength-analyzer
+   cd password-analyze
    ```
 3. Open `index.html` in your browser to run the analyzer.
 
